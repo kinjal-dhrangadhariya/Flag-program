@@ -1,2 +1,2 @@
 # Flag-program
-create a flag
+create a flag using css and html.
